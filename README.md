@@ -1,2 +1,2 @@
-# ai-agency-frontend
-A frontend project using React.js and Tailwind CSS
+# AI Agency Frontend
+Frontend for the AI Agency project built with React and Vite.
